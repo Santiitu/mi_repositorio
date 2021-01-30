@@ -71,7 +71,7 @@ img {
 
 /*-- Pagina Productos. Todas las remeras. Hay que enlazar todos los productos, con una sola visualizacion. --*/
 /*-- Pagina Contacto. Footer. --*/
-.Footer__Atencion {
+/*--.Footer__Atencion {
   background-color: #000;
   font-family: 'Bebas Neue', cursive;
   font-size: 20px;
@@ -87,7 +87,11 @@ img {
 
 .Contacto {
   padding: 10px;
-  background: linear-gradient(to left, red, yellow); }
+  background: linear-gradient(to left, red, yellow); } --*/
+
+.form {
+  background: linear-gradient(to left, rgb(194, 191, 191), rgb(78, 78, 78));
+}
 
 /*-- Pagina Talles. informacion tecnica de las remeras. --*/
 .Table__talles {
